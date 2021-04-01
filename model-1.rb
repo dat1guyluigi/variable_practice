@@ -15,3 +15,12 @@ is_slow = false
 
 #arrays
 car_types = ["mustang", "camaro", "challenger"]
+
+#hashes
+computer_traits = {
+  "ram" => "16gb"
+  "processor" => "i7"
+  "power_supply" => "750w"
+  "gpu" => "2080ti"
+
+}
