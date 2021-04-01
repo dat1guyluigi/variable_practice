@@ -7,3 +7,8 @@ dog_type = "husky"
 vehicle_miles = 92,298
 
 negative_number = -182
+
+#booleans
+is_fast = true
+
+is_slow = false
