@@ -12,3 +12,6 @@ negative_number = -182
 is_fast = true
 
 is_slow = false
+
+#arrays
+car_types = ["mustang", "camaro", "challenger"]
