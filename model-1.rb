@@ -6,7 +6,7 @@ dog_type = "husky"
 #integer/floats
 vehicle_miles = 92,298
 
-negative_number = -182
+negative_number = -182.82
 
 #booleans
 is_fast = true
